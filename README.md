@@ -1,0 +1,2 @@
+# coolplugin
+wordpress plugin scaffolding
